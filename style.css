@@ -38,9 +38,9 @@ body {
 	font-family: var(--poppins);
 	font-size: 1.3rem;
 	font-weight: 200;
-	background-color: var(--very-light-gray);
 	min-width: 100vw;
 	min-height: 13.6rem;
+	background-color: var(--very-light-gray);
 }
 
 li {
@@ -126,10 +126,6 @@ img {
 }
 
 @media (min-width: 60rem) {
-	body {
-		background-color: #fff;
-	}
-
 	header {
 		margin-bottom: 6.4rem;
 		max-width: 54rem;
