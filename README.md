@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [My solution on Frontend Mentor](https://your-solution-url.com)
+- Solution URL: [My solution on Frontend Mentor](https://www.frontendmentor.io/solutions/four-card-feature-section-w_gnKHVMNH)
 - Live Site URL: [Live version of my solution](https://four-card-feature-section-frontend-mentor-two.vercel.app/)
 
 ## My process
