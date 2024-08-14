@@ -38,6 +38,7 @@ body {
 	font-family: var(--poppins);
 	font-size: 1.3rem;
 	font-weight: 200;
+	min-height: 100vh;
 	color: var(--very-dark-blue);
 	background-color: var(--very-light-gray);
 }
